@@ -13,3 +13,4 @@ J’ai choisi d’apprendre Python, R et Pars pour développer mes compétences 
 Ces langages sont très utilisés dans le monde professionnel et offrent de nombreuses possibilités.
  
 Je souhaite mieux comprendre et exploiter les données pour améliorer les processus.
+images/capture.png
