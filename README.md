@@ -13,4 +13,21 @@ J’ai choisi d’apprendre Python, R et Pars pour développer mes compétences 
 Ces langages sont très utilisés dans le monde professionnel et offrent de nombreuses possibilités.
  
 Je souhaite mieux comprendre et exploiter les données pour améliorer les processus.
-images/capture.png
+## Temps consacré
+ 
+J'ai mis 2 heures pour réaliser cette série d'exercices.
+ 
+## Concepts principaux appris
+ 
+- Manipulation de Git et GitHub.
+- Création et gestion d’un dépôt.
+- Utilisation et modification d’un fichier README.md.
+- Découverte de VS Code en markdawn
+ 
+## Principales commandes utilisées
+ 
+- `git clone`
+- `git add`
+- `git commit`
+- `git push`
+- `git pull`
